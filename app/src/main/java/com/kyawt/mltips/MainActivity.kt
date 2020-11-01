@@ -1,4 +1,4 @@
-gitpackage com.kyawt.mltips
+package com.kyawt.mltips
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
